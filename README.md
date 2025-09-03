@@ -17,18 +17,18 @@ Welcome to the course!
 
 - **[Lecture 1](#lecture-1)**: Sep 4, Room 30:  Introduction to Python
 - Lecture 2: Sep 11, Room 46a: Linear Algebra + Numeric computing (numpy)
-- Lecture 3: Sep 18, Room 50: Scientific computing (scipy)  and Data visualization (matplotlib)
+- Lecture 3: Sep 18, Room 50: Scientific computing (scipy) and Data visualization (matplotlib)
 - Lecture 4: Sep 25, Room 48: Signal Processing
-- Lecture 5: Oct 16, Room 48: Presentation of the projects
+- Lecture 5: Oct 16, Room 48: Correction of mini-project. Presentation of the projects
 ---
 - **Working session 1**: Oct 29 (am), Room 60 (Computer Lab)
 - **Working session 2**: Oct 29 (pm), Room 60 (Computer Lab)
 - **Working session 3**: Oct 30 (am), Room 60 (Computer Lab)
 - **Working session 4**: Oct 30 (pm), Room 60 (Computer Lab)
 ---
-- **Defense**: Nov 21, 14h-18h, Room module 1.1: Detailed planning will be posted few days ahead.
+- **Defense**: Nov 21, 14h-18h, Room Module 1.1: Detailed planning will be posted few days ahead.
 
-Most location for the rooms are reported [here](https://moodle.u-bordeaux.fr/mod/folder/view.php?id=226382)
+Most locations for the rooms are reported [here](https://moodle.u-bordeaux.fr/mod/folder/view.php?id=226382).
 
 ## Lecture 1
 
