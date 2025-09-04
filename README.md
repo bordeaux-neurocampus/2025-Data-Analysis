@@ -16,7 +16,7 @@ Welcome to the course!
 
 
 - **[Lecture 1](#lecture-1)**: Sep 4, Room 30:  Introduction to Python
-- Lecture 2: Sep 11, Room 46a: Linear Algebra + Numeric computing (numpy)
+- **[Lecture 2](#lecture-2)**: Sep 11, Room 46a: Linear Algebra + Numeric computing (numpy)
 - Lecture 3: Sep 18, Room 50: Scientific computing (scipy) and Data visualization (matplotlib)
 - Lecture 4: Sep 25, Room 48: Signal Processing
 - Lecture 5: Oct 16, Room 48: Correction of mini-project. Presentation of the projects
@@ -44,3 +44,13 @@ Most locations for the rooms are reported [here](https://moodle.u-bordeaux.fr/mo
 - Finish [installation](lessons/L01-installation.md) & [introduction](lessons/L01-introduction-to-python.md)
 - Read Scipy Lecture notes chapters on [basic types](http://scipy-lectures.org/intro/language/basic_types.html), [control flow](http://scipy-lectures.org/intro/language/control_flow.html) and [functions](http://scipy-lectures.org/intro/language/functions.html)
 
+
+## Lecture 2
+
+### Content
+
+#### CM
+- Linear Algebra
+
+#### TD
+- [Introduction to numerical computing (numpy)](lessons/L02-NumPy.ipynb)
