@@ -50,7 +50,13 @@ Most locations for the rooms are reported [here](https://moodle.u-bordeaux.fr/mo
 ### Content
 
 #### CM
-- Linear Algebra
+- [Linear Algebra](lessons/L02_Linear_algebra_slides_2025.pdf)
 
 #### TD
 - [Introduction to numerical computing (numpy)](lessons/L02-NumPy.ipynb)
+
+### Homework
+- Finish Exercices 1-5 from the Linear Algebra lesson
+- NumPy practice: finish the exercises from the NumPy notebook
+- For more linear algebra, you can watch videos by 3Blue1Brown on YouTube
+    - [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) (chapters 1-11) is a good place to start with for this course, but feel free to watch the other videos though, as they are highly interesting!
