@@ -71,4 +71,5 @@ Most locations for the rooms are reported [here](https://moodle.u-bordeaux.fr/mo
 
 ### Homework
 - Finish the Exercises from the SciPy Introduction notebook
-- Get started on the mini-project: sections 0 to 3 included.
+- Started working on the mini-project: sections 0 to 3 included.
+- Watch video on [Fourier Series](https://www.youtube.com/watch?v=7ssUImv8e4w)
