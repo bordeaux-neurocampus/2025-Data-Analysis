@@ -17,7 +17,7 @@ Welcome to the course!
 
 - **[Lecture 1](#lecture-1)**: Sep 4, Room 30:  Introduction to Python
 - **[Lecture 2](#lecture-2)**: Sep 11, Room 46a: Linear Algebra + Numeric computing (numpy)
-- Lecture 3: Sep 18, Room 50: Scientific computing (scipy) and Data visualization (matplotlib)
+- **[Lecture 3](#lecture-3)**: Sep 18, Room 50: Scientific computing (scipy) and Data visualization (matplotlib)
 - Lecture 4: Sep 25, Room 48: Signal Processing
 - Lecture 5: Oct 16, Room 48: Correction of mini-project. Presentation of the projects
 ---
@@ -60,3 +60,15 @@ Most locations for the rooms are reported [here](https://moodle.u-bordeaux.fr/mo
 - NumPy practice: finish the exercises from the NumPy notebook
 - For more linear algebra, you can watch videos by 3Blue1Brown on YouTube
     - [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) (chapters 1-11) is a good place to start with for this course, but feel free to watch the other videos though, as they are highly interesting!
+
+## Lecture 3
+
+### Content
+
+#### TD
+- [Introduction to data visualization with Matplotlib](lessons/L03-Data_visualization_Matplotlib.ipynb)
+- [Scientific computing with SciPy](lessons/L03-Scipy_introduction.ipynb)
+
+### Homework
+- Finish the Exercises from the SciPy Introduction notebook
+- Get started on the mini-project: sections 0 to 3 included.
