@@ -18,7 +18,7 @@ Welcome to the course!
 - **[Lecture 1](#lecture-1)**: Sep 4, Room 30:  Introduction to Python
 - **[Lecture 2](#lecture-2)**: Sep 11, Room 46a: Linear Algebra + Numeric computing (numpy)
 - **[Lecture 3](#lecture-3)**: Sep 18, Room 50: Scientific computing (scipy) and Data visualization (matplotlib)
-- Lecture 4: Sep 25, Room 48: Signal Processing
+- **[Lecture 4](#lecture-4)**: Sep 25, Room 48: Signal Processing
 - Lecture 5: Oct 16, Room 48: Correction of mini-project. Presentation of the projects
 ---
 - **Working session 1**: Oct 29 (am), Room 60 (Computer Lab)
@@ -73,3 +73,20 @@ Most locations for the rooms are reported [here](https://moodle.u-bordeaux.fr/mo
 - Finish the Exercises from the SciPy Introduction notebook
 - Started working on the mini-project: sections 0 to 3 included.
 - Watch video on [Fourier Series](https://www.youtube.com/watch?v=7ssUImv8e4w)
+
+
+## Lecture 4
+
+### Content
+
+#### CM
+- Introduction to [signal processing](lessons//L04-fft-nslides.pdf)
+
+#### TD
+
+- [Spectral analysis](lessons//L04-fft-notebook.ipynb)
+
+
+### Homework
+- Finish notebook exercises  
+- Finish mini-project #1 and submit the completed notebook on moodle (deadline : 09-Oct-2025)
