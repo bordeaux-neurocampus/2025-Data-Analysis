@@ -96,7 +96,7 @@ Most locations for the rooms are reported [here](https://moodle.u-bordeaux.fr/mo
 
 ### Content
 - Correction Songbird project
-- Presentation of group projects
+- [Presentation of group projects](projects/Projects_presentation_slides)
 
 ### Homework
 - Work on group project
