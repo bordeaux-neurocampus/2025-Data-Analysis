@@ -19,7 +19,7 @@ Welcome to the course!
 - **[Lecture 2](#lecture-2)**: Sep 11, Room 46a: Linear Algebra + Numeric computing (numpy)
 - **[Lecture 3](#lecture-3)**: Sep 18, Room 50: Scientific computing (scipy) and Data visualization (matplotlib)
 - **[Lecture 4](#lecture-4)**: Sep 25, Room 48: Signal Processing
-- Lecture 5: Oct 16, Room 48: Correction of mini-project. Presentation of the projects
+- **[Lecture 5](#lecture-5)**: Oct 16, Room 48: Correction of mini-project. Presentation of the projects
 ---
 - **Working session 1**: Oct 29 (am), Room 60 (Computer Lab)
 - **Working session 2**: Oct 29 (pm), Room 60 (Computer Lab)
@@ -90,3 +90,46 @@ Most locations for the rooms are reported [here](https://moodle.u-bordeaux.fr/mo
 ### Homework
 - Finish notebook exercises  
 - Finish mini-project #1 and submit the completed notebook on moodle (deadline : 09-Oct-2025)
+
+
+## Lecture 5
+
+### Content
+- Correction Songbird project
+- Presentation of group projects
+
+### Homework
+- Work on group project
+
+
+## Working session 1 (3h 20-Oct-25 am)
+
+- Computer room 60 available. Tutors may be present to check progress, answer questions, debug codes, etc.
+
+## Working session 2 (3h 29-Oct-25 pm)
+
+- Computer room 60 available. Tutors may be present to check progress, answer questions, debug codes, etc.
+
+## Working session 3 (3h 30-Oct-25 am)
+
+- Computer room 60 available. Tutors may be present to check progress, answer questions, debug codes, etc.
+
+## Working session 4 (3h 30-Oct-25 pm)
+
+- Computer room 60 available. Tutors may be present to check progress, answer questions, debug codes, etc.
+- Finalization of project
+
+
+### Homework
+- Deadline 16-Nov-25 23:59
+    - Report: pdf, 3-5 pages, typical scientific report structure (abstract, introduction, material & methods, results with figures, conclusion, references).
+    - Notebook: Show all the code used for the project. Documenting the code is strongly advised (descriptive comments, docstrings, explaining what was done even if it didn't work).
+- Oral presentation: 5 minutes, focused on results and interpretation.
+
+
+
+## Defense day (21-Nov-25, 14:00-18:00, Room Module 1.1)
+
+- Each group is to present their work in front of a jury.
+  5 minutes for presentations + 10-15 minutes for questions.
+  Questions will focus on showing you understand the analyses and the code.
