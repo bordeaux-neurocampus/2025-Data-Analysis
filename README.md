@@ -102,7 +102,7 @@ Most locations for the rooms are reported [here](https://moodle.u-bordeaux.fr/mo
 - Work on group project
 
 
-## Working session 1 (3h 20-Oct-25 am)
+## Working session 1 (3h 29-Oct-25 am)
 
 - Computer room 60 available. Tutors may be present to check progress, answer questions, debug codes, etc.
 
